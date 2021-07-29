@@ -12,6 +12,7 @@ The dataset contains 35 features such as Age, Net Income, Customer Type, Industr
       * Creating dummy variables
       * Handling outliers
       * Selecting relevant features
+ 
          - For Feature Selection we have used:
            * Random Forest
            * Information Value
