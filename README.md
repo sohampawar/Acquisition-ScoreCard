@@ -12,14 +12,14 @@ The dataset contains 35 features such as Age, Net Income, Customer Type, Industr
       * Creating dummy variables
       * Handling outliers
       * Selecting relevant features
-      - For Feature Selection we have used:
-        * Random Forest
-        * Information Value
-        * Varclus
-        * Lasso Regression
-    
+         - For Feature Selection we have used:
+           * Random Forest
+           * Information Value
+           * Varclus
+           * Lasso Regression
+
 2. Training a machine learning model:
-   - Included in 'acquisition_scorecard.ipynb'
+   - Included in 'Acq_Scorecard.ipynb'
    - Models used:
       * Forward Logistic Regression
       * Backward Logistic Regression
